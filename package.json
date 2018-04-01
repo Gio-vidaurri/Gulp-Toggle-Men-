@@ -1,0 +1,22 @@
+{
+  "name": "Menu",
+  "version": "1.0.0",
+  "description": "menu toggle",
+  "main": "brunch-config.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0"
+  },
+  "devDependencies": {
+    "gulp-sass": "^3.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "sass"
+  ],
+  "author": "Gio",
+  "license": "ISC"
+}

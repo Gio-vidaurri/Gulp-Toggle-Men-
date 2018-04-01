@@ -1,0 +1,5 @@
+/*Ejemplo de archivo .gitignore*/
+/node_modules #Ignora todo el folder 
+/psd/*.psd #Ignora todos los archivos con extensión psd dentro de la carpeta psd
+/psd/*.* #Ignora todos los archivos con cualquier extensión dentro de la carpeta psd
+/psd/**/*.* #Ignora todos los archivos con cualquier extensión, dentro de cualquier folder dentro de la carpeta psd
